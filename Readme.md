@@ -10,7 +10,8 @@ Employee attrition causes losses for organizations from various aspects:
 ---
 
 ## 2. Insights and Solutions
-one of the insightsand findings  I discussed in the pdf was:
+
+one of the insights and findings  I discussed in the pdf was:
 ### Findings
 * **83%** of employees who left had a **performance rating of 3**. This is a danger zone because we are losing productive employees.
     * This percentage is divided into **55%** of employees belonging to the **lowest salary category** and **28%** otherwise.
